@@ -1,0 +1,22 @@
+body
+{
+  background-color: #FF5ACD;
+background-image: linear-gradient(246deg, #FF5ACD 25%, #ffc300 100%);
+text-align:center;
+  font-size:40px;
+}
+h1
+{
+  font-family: Inconsolata, cursive;
+}
+img
+{
+  height: 400px;
+  width: 500px;
+  padding-right:50px;
+}
+#no
+{
+height: 600px;
+width: 400px;
+}
